@@ -1,0 +1,16 @@
+*Disclaimer*
+-O jogo ainda se encontra em desemvolvimento sendo esta versao Early Access.
+
+Batalha Naval:
+Jogador vs Computador num tabuleiro 10x10 onde são posicionadas as embarcações. 
+Cada jogada tem 3 tiros e o jogo acaba quando todas as embarcações inimigas forem afundadas.
+
+
+Interface:
+
+O jogo possui um menu que permite fazer load e save do jogo.
+se o jogador iniciar um novo jogo, tera que colocar o seu nome.
+Apos isso ira posicionar os seu barcos inserindo as coordenadas ex: A1 ou H9.
+Apos posicionar os barcos, o computador ira tambem posicionar.
+Assim vai começar o jogo e o jogador podera fazer 3 tiros para acertar nas embarcaçoes inimigas.
+Se o jogador conseguir acertar primeiro em todas as embarcações inimigas mais rapido que o computador ira ganhar o Jogo.
